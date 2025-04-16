@@ -55,7 +55,7 @@ plt.show()
 # OUTPUT WAVEFORM:
 ![ASK OUTPUT](https://github.com/user-attachments/assets/a836891a-4535-499e-ac6c-42b84b2838c7)
 # GRAPH :
-![WhatsApp Image 2025-04-15 at 19 29 56_7340b429](https://github.com/user-attachments/assets/b2192ae1-4625-4cca-a537-33e1201dbe86)
+![WhatsApp Image 2025-04-15 at 19 29 56_7340b429](https://github.com/Siva1309/ASK/blob/main/WhatsApp%20Image%202025-04-16%20at%201.34.13%20PM.jpeg?raw=true)
 
 
 # RESULT:
