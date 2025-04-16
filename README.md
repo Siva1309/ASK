@@ -1,4 +1,4 @@
-# AMPLITUDE SHIFT KEYING 
+# AMPLITUDE SHIFT KEYING  
 # AIM:
 To simulate Amplitude Shift Keying (ASK) modulation and demodulation and analyze the transmission of binary data using amplitude variations in a carrier signal.
 # TOOLS REQUIRED:
